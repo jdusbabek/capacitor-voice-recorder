@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">Capacitor Voice Recorder</h3>
 <p align="center"><strong><code>tchvu3/capacitor-voice-recorder</code></strong></p>
-<p align="center">Capacitor plugin for simple voice recording (For Capacitor 3)</p>
+<p align="center">Capacitor plugin for simple voice recording (For Capacitor 4)</p>
 
 <p align="center">
   <img src="https://img.shields.io/maintenance/yes/2022" />
